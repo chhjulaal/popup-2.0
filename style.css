@@ -12,7 +12,7 @@
 }
 
 .box {
-  display:inline-block;
+  display: inline-block;
   margin: 0 0.5rem;
   animation: bounce;
   animation-duration: 2s; /* don't forget to set a duration! */
@@ -43,7 +43,8 @@
   border-radius: 5px;
   background-color: #62b63f;
 }
-button {
+#btn {
+  display: none;
   padding: 10px 42px;
   margin: 12px;
 }
